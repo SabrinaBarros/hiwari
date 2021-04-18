@@ -1,0 +1,21 @@
+{
+  "name": "hiwari",
+  "version": "0.1.0",
+  "description": " ",
+  "main": "./hiwari.js",
+  "author": {
+    "name": "SabrinaBarros",
+    "email": "sabrina.barros2045@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SabrinaBarros/hiwari.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SabrinaBarros/hiwari/issues"
+  },
+  "homepage": "https://github.com/SabrinaBarros/hiwari#readme",
+  "dependencies": {
+    "node-emoji": "^1.10.0"
+  }
+}
