@@ -2,6 +2,27 @@
 
 [![licence mit](https://img.shields.io/badge/licence-MIT-brightgreen.svg)](https://github.com/SabrinaBarros/hiwari/blob/master/LICENSE.md)
 
+
+## How to use
+
+1 - Install the CLI:
+
+```sh
+$ npm install hiwari -g
+```
+
+2 - Use:
+
+```sh
+$ hiwari <file.json>
+```
+
+## Command Line Usage
+
+- `$ hiwari -v`: Show hiwari version.
+
+## Develop
+
 1 - Clone this repository:
 
 ```sh
@@ -16,6 +37,12 @@ $ cd hiwari
 
 ```sh
 $ npm install
+```
+
+3 - Link for test the CLI:
+
+```sh
+$ npm link .
 ```
 
 ## Contributing

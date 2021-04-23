@@ -1,22 +1,26 @@
-const json = require('./routine.json');
 const emoji = require('node-emoji');
 
-const log = json.studies_log;
+function hiwari(json) {
 
-let allPoints = 0;
-let totalItens = 0;
+    const log = json.studies_log;
 
-log.forEach( item => {
+    let allPoints = 0;
+    let totalItens = 0;
 
-    allPoints += item.complete_points;
+    log.forEach( item => {
 
-    if(item.complete_points !== null) {
-        totalItens += 1
-    }
+        allPoints += item.complete_points;
 
-})
+        if(item.complete_points !== null) {
+            totalItens += 1
+        }
 
-const weeklyAvarege = allPoints / totalItens;
-const response = 'A media de pontos realizados por semana é de: ' + weeklyAvarege + ' pontos.' + emoji.get('fire');
+    })
 
-console.log(response);
+    const weeklyAvarege = allPoints / totalItens;
+    const response = 'A media de pontos realizados por semana é de: ' + weeklyAvarege + ' pontos.' + emoji.get('fire');
+    console.log(response);
+
+}
+
+module.exports = hiwari

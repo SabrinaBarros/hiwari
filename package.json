@@ -1,8 +1,12 @@
 {
   "name": "hiwari",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": " ",
   "main": "./hiwari.js",
+  "bin": {
+    "hiwari": "./bin/index.js"
+  },
+  "preferGlobal": true,
   "author": {
     "name": "SabrinaBarros",
     "email": "sabrina.barros2045@gmail.com"
