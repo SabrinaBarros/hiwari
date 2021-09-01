@@ -51,6 +51,10 @@ Find on our [roadmap](https://github.com/SabrinaBarros/hiwari/issues/1) the next
 <br>
 Want to contribute? [Follow these recommendations](https://github.com/SabrinaBarros/hiwari/blob/master/CONTRIBUTING.md).
 
+## Versioning
+
+To keep better organization of releases we follow the [Semantic Versioning 2.0.0](http://semver.org/) guidelines.
+
 ## License
 
 [MIT License](https://github.com/SabrinaBarros/hiwari/blob/master/LICENSE.md) © [Sabrina Barros](https://github.com/SabrinaBarros)
