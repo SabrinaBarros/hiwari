@@ -2,16 +2,15 @@
 
 [![licence mit](https://img.shields.io/badge/licence-MIT-brightgreen.svg)](https://github.com/SabrinaBarros/hiwari/blob/master/LICENSE.md)
 
-
 ## How to use
 
-1 - Install the CLI:
+1 - Install the CLI
 
 ```sh
 $ npm install hiwari -g
 ```
 
-2 - Use:
+2 - Use
 
 ```sh
 $ hiwari <file.json>
@@ -23,7 +22,7 @@ $ hiwari <file.json>
 
 ## Develop
 
-1 - Clone this repository:
+1 - Clone this repository
 
 ```sh
 $ git clone https://github.com/SabrinaBarros/hiwari.git
@@ -33,22 +32,22 @@ $ git clone https://github.com/SabrinaBarros/hiwari.git
 $ cd hiwari
 ```
 
-2 - Install all dependencies:
+2 - Install all dependencies
 
 ```sh
 $ npm install
 ```
 
-3 - Link for test the CLI:
+3 - Link for test the CLI
 
 ```sh
-$ npm link .
+$ npm link
 ```
 
 ## Contributing
 
 Find on our [roadmap](https://github.com/SabrinaBarros/hiwari/issues/1) the next steps of the project ;)
-<br>
+
 Want to contribute? [Follow these recommendations](https://github.com/SabrinaBarros/hiwari/blob/master/CONTRIBUTING.md).
 
 ## Versioning

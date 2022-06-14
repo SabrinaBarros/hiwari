@@ -1,45 +1,45 @@
 {
-    "project": "Studies routine",
-    "studies_log": [
-      {
-        "start_date": "22/03/21",
-        "end_date": "26/03/21",
-        "total_points": 26,
-        "complete_points": 26,
-        "total_tasks": 7,
-        "complete_tasks": 7,
-        "lost_tasks": 0,
-        "milestone": "Week 1"
-      },
-      {
-        "start_date": "29/03/21",
-        "end_date": "02/04/21",
-        "total_points": 18,
-        "complete_points": 18,
-        "total_tasks": 4,
-        "complete_tasks": 4,
-        "lost_tasks": 0,
-        "milestone": "Week 2"
-      },
-      {
-        "start_date": "05/04/21",
-        "end_date": "09/04/21",
-        "total_points": 37,
-        "complete_points": 37,
-        "total_tasks": 7,
-        "complete_tasks": 7,
-        "lost_tasks": 0,
-        "milestone": "Week 3"
-      },
-      {
-        "start_date": "12/04/21",
-        "end_date": "16/04/21",
-        "total_points": 51,
-        "complete_points": null,
-        "total_tasks": 8,
-        "complete_tasks": null,
-        "lost_tasks": null,
-        "milestone": "Week 4"
-      }
-    ]
+  "project": "Studies routine",
+  "studies_log": [
+    {
+      "start_date": "22/03/21",
+      "end_date": "26/03/21",
+      "total_points": 26,
+      "complete_points": 26,
+      "total_tasks": 7,
+      "complete_tasks": 7,
+      "lost_tasks": 0,
+      "milestone": "Week 1"
+    },
+    {
+      "start_date": "29/03/21",
+      "end_date": "02/04/21",
+      "total_points": 18,
+      "complete_points": 18,
+      "total_tasks": 4,
+      "complete_tasks": 4,
+      "lost_tasks": 0,
+      "milestone": "Week 2"
+    },
+    {
+      "start_date": "05/04/21",
+      "end_date": "09/04/21",
+      "total_points": 37,
+      "complete_points": 37,
+      "total_tasks": 7,
+      "complete_tasks": 7,
+      "lost_tasks": 0,
+      "milestone": "Week 3"
+    },
+    {
+      "start_date": "12/04/21",
+      "end_date": "16/04/21",
+      "total_points": 51,
+      "complete_points": null,
+      "total_tasks": 8,
+      "complete_tasks": null,
+      "lost_tasks": null,
+      "milestone": "Week 4"
+    }
+  ]
 }
