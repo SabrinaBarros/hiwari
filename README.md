@@ -1,6 +1,6 @@
 # Hiwari :smiley_cat:
 
-[![licence mit](https://img.shields.io/badge/licence-MIT-brightgreen.svg)](https://github.com/SabrinaBarros/hiwari/blob/master/LICENSE.md)
+[![license mit](https://img.shields.io/badge/licence-MIT-brightgreen.svg)](https://github.com/SabrinaBarros/hiwari/blob/master/LICENSE.md)
 
 ## How to use
 

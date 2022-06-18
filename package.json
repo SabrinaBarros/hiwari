@@ -8,7 +8,8 @@
   },
   "preferGlobal": true,
   "scripts": {
-    "lint": "node_modules/.bin/eslint hiwari.js ./bin/"
+    "lint": "node_modules/.bin/eslint hiwari.js ./bin/",
+    "prepare": "husky install"
   },
   "author": {
     "name": "SabrinaBarros",
@@ -26,6 +27,7 @@
     "node-emoji": "^1.10.0"
   },
   "devDependencies": {
-    "eslint": "^8.17.0"
+    "eslint": "^8.17.0",
+    "husky": "^8.0.1"
   }
 }
