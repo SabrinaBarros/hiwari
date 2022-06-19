@@ -17,8 +17,12 @@ const hiwari = json => {
 
   const weeklyAvarege = allPoints / totalItens
   const response = 'A media de pontos realizados por semana é de: ' + weeklyAvarege + ' pontos.' + emoji.get('fire')
+
   console.log(response)
 
+  const valuesForTest = {weeklyAvarege, response}
+
+  return valuesForTest
 }
 
 module.exports = hiwari

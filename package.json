@@ -8,7 +8,8 @@
   },
   "preferGlobal": true,
   "scripts": {
-    "lint": "node_modules/.bin/eslint hiwari.js ./bin/",
+    "test": "node_modules/.bin/mocha ./tests/ --exit",
+    "lint": "node_modules/.bin/eslint .",
     "prepare": "husky install"
   },
   "author": {
@@ -24,12 +25,14 @@
   },
   "homepage": "https://github.com/SabrinaBarros/hiwari#readme",
   "dependencies": {
+    "chai": "^4.3.6",
     "node-emoji": "^1.10.0"
   },
   "devDependencies": {
     "@commitlint/cli": "^17.0.2",
     "@commitlint/config-conventional": "^17.0.2",
     "eslint": "^8.17.0",
-    "husky": "^8.0.1"
+    "husky": "^8.0.1",
+    "mocha": "^10.0.0"
   }
 }
